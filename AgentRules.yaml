@@ -5,5 +5,4 @@
 # IP-CIDR: 0
 # IP-CIDR6: 0
 # TOTAL: 0
-payload:
-  - DOMAIN-SUFFIX,oneplus.com
+DOMAIN-SUFFIX,oneplus.com
