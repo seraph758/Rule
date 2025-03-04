@@ -5,7 +5,7 @@
 # IP-CIDR: 0
 # IP-CIDR6: 0
 # TOTAL: 0
-#增加了一加系统更新服务器的通道
+# 增加了一加系统更新服务器的通道
 DOMAIN-SUFFIX,oneplus.com
 DOMAIN-SUFFIX,allawnos.com
 
